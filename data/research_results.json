@@ -1,0 +1,584 @@
+{
+  "researched_at": "2026-03-19T15:07:20.798139",
+  "markets_researched": 30,
+  "research_results": [
+    {
+      "market_id": "0x0a0daf16a2e58158d63d46c018b7161eb06b36d49f3f15188d58aa5b4e1c3c4f",
+      "question": "LoL: Gen.G vs LYON (BO5) - First Stand Group B",
+      "sources_checked": 0,
+      "sentiment_score": 0.0,
+      "estimated_probability": 0.5,
+      "confidence_level": "LOW",
+      "narrative_summary": "No external data found. Defaulting to market price.",
+      "last_updated": "2026-03-19T15:06:36.251600"
+    },
+    {
+      "market_id": "0x1b7447575bb4451e6b3aa24d2c90538730da17a0d20a2ccaa4801703a4920f85",
+      "platform": "polymarket",
+      "question": "LoL: Gen.G vs LYON - Game 2 Winner",
+      "keywords_searched": "lol: gen.g lyon game winner",
+      "sources_checked": 10,
+      "news_count": 0,
+      "reddit_count": 10,
+      "sentiment_score": 0.1,
+      "estimated_probability": 0.51,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 10 sources (0 news, 10 Reddit). Composite sentiment: +0.100 (NEUTRAL). Market price: 0.50 \u2192 estimated: 0.51. Key headlines: \ud83c\udf0aS50 Episode 4 Contenders\ud83c\udf0a - In the Hands of.... Zac Brown?? | 29F - Looking for chill friends to game with or just hang out!",
+      "top_headlines": [
+        "\ud83c\udf0aS50 Episode 4 Contenders\ud83c\udf0a - In the Hands of.... Zac Brown??",
+        "29F - Looking for chill friends to game with or just hang out!",
+        "tested my broker before going all in and lowkey glad i did"
+      ],
+      "last_updated": "2026-03-19T15:06:37.612159"
+    },
+    {
+      "market_id": "0xe689eb0388b77fb3ad3674530d8411199bacb463ec9aafbaa871ac68ee2b9331",
+      "platform": "polymarket",
+      "question": "LoL: Gen.G vs LYON - Game 1 Winner",
+      "keywords_searched": "lol: gen.g lyon game winner",
+      "sources_checked": 10,
+      "news_count": 0,
+      "reddit_count": 10,
+      "sentiment_score": 0.1,
+      "estimated_probability": 0.51,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 10 sources (0 news, 10 Reddit). Composite sentiment: +0.100 (NEUTRAL). Market price: 0.50 \u2192 estimated: 0.51. Key headlines: \ud83c\udf0aS50 Episode 4 Contenders\ud83c\udf0a - In the Hands of.... Zac Brown?? | 29F - Looking for chill friends to game with or just hang out!",
+      "top_headlines": [
+        "\ud83c\udf0aS50 Episode 4 Contenders\ud83c\udf0a - In the Hands of.... Zac Brown??",
+        "29F - Looking for chill friends to game with or just hang out!",
+        "tested my broker before going all in and lowkey glad i did"
+      ],
+      "last_updated": "2026-03-19T15:06:39.390446"
+    },
+    {
+      "market_id": "0x088071265e0314e4cc31155425159e5c6dbe79b413347672e65d474f95ccb64d",
+      "question": "Game Handicap: GEN (-2.5) vs LYON (+2.5)",
+      "sources_checked": 0,
+      "sentiment_score": 0.0,
+      "estimated_probability": 0.5,
+      "confidence_level": "LOW",
+      "narrative_summary": "No external data found. Defaulting to market price.",
+      "last_updated": "2026-03-19T15:06:40.315761"
+    },
+    {
+      "market_id": "0xb94f615c612a73fad02206555c48712bc73d166e9f0d7ee7df5db2adf7829f82",
+      "platform": "polymarket",
+      "question": "LoL: Gen.G vs LYON - Game 3 Winner",
+      "keywords_searched": "lol: gen.g lyon game winner",
+      "sources_checked": 10,
+      "news_count": 0,
+      "reddit_count": 10,
+      "sentiment_score": 0.1,
+      "estimated_probability": 0.51,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 10 sources (0 news, 10 Reddit). Composite sentiment: +0.100 (NEUTRAL). Market price: 0.50 \u2192 estimated: 0.51. Key headlines: \ud83c\udf0aS50 Episode 4 Contenders\ud83c\udf0a - In the Hands of.... Zac Brown?? | 29F - Looking for chill friends to game with or just hang out!",
+      "top_headlines": [
+        "\ud83c\udf0aS50 Episode 4 Contenders\ud83c\udf0a - In the Hands of.... Zac Brown??",
+        "29F - Looking for chill friends to game with or just hang out!",
+        "tested my broker before going all in and lowkey glad i did"
+      ],
+      "last_updated": "2026-03-19T15:06:41.721539"
+    },
+    {
+      "market_id": "0xe6ebc78c5150fa603ca15bf5d5411955946fcddfd5d28cf34e4c241b4ec509b6",
+      "platform": "polymarket",
+      "question": "Will AS Roma win on 2026-03-19?",
+      "keywords_searched": "roma win 2026-03-19",
+      "sources_checked": 10,
+      "news_count": 0,
+      "reddit_count": 10,
+      "sentiment_score": 0.4,
+      "estimated_probability": 0.54,
+      "market_price": 0.5,
+      "confidence_level": "HIGH",
+      "narrative_summary": "Found 10 sources (0 news, 10 Reddit). Composite sentiment: +0.400 (BULLISH). Market price: 0.50 \u2192 estimated: 0.54. Key headlines: Morocco says stripping Senegal of AFCON win \u2018upholds rights and integrity\u2019 | \ud83c\uddfa\ud83c\uddf8 I'm a foot surgeon (2,500 bunion surgeries) \u2014 AMA about wide feet, shoes, and running",
+      "top_headlines": [
+        "Morocco says stripping Senegal of AFCON win \u2018upholds rights and integrity\u2019",
+        "\ud83c\uddfa\ud83c\uddf8 I'm a foot surgeon (2,500 bunion surgeries) \u2014 AMA about wide feet, shoes, and running",
+        "\u26bd [LIVE MATCH THREAD] Evening Action: Watch, Bet &amp; Chat \ud83d\udd34 UEFA Europa League games | 19.03.2026"
+      ],
+      "last_updated": "2026-03-19T15:06:43.039622"
+    },
+    {
+      "market_id": "0xd3f6cab0a8a5151eb42ba6016674ab0a5cf263d609f09fb355e89818169f16c0",
+      "platform": "polymarket",
+      "question": "Counter-Strike: Spirit vs Liquid (BO3) - BLAST Open Rotterdam Group B",
+      "keywords_searched": "counter-strike: spirit liquid (bo3) blast open",
+      "sources_checked": 1,
+      "news_count": 0,
+      "reddit_count": 1,
+      "sentiment_score": 0.0,
+      "estimated_probability": 0.5,
+      "market_price": 0.5,
+      "confidence_level": "LOW",
+      "narrative_summary": "Found 1 sources (0 news, 1 Reddit). Composite sentiment: +0.000 (NEUTRAL). Market price: 0.50 \u2192 estimated: 0.50. Key headlines: BLAST Open Spring 2026 / Information, Schedule and Discussion",
+      "top_headlines": [
+        "BLAST Open Spring 2026 / Information, Schedule and Discussion"
+      ],
+      "last_updated": "2026-03-19T15:06:43.953335"
+    },
+    {
+      "market_id": "0x9ac4b40fe3cfb4ad19e79806e711d6fc35e5eab580b95b9f6fe7197e8a354b10",
+      "platform": "polymarket",
+      "question": "Pistons vs. Wizards",
+      "keywords_searched": "pistons vs wizards",
+      "sources_checked": 20,
+      "news_count": 10,
+      "reddit_count": 10,
+      "sentiment_score": 0.25,
+      "estimated_probability": 0.525,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 20 sources (10 news, 10 Reddit). Composite sentiment: +0.250 (BULLISH). Market price: 0.50 \u2192 estimated: 0.53. Key headlines: Cade Cunningham injury, what games has Detroit Pistons star missed? | Cade Cunningham injury update: Pistons star exits with back spasms",
+      "top_headlines": [
+        "Cade Cunningham injury, what games has Detroit Pistons star missed?",
+        "Cade Cunningham injury update: Pistons star exits with back spasms",
+        "Cade Cunningham departs early, but Detroit Pistons hot late vs. Wizards"
+      ],
+      "last_updated": "2026-03-19T15:06:45.862551"
+    },
+    {
+      "market_id": "0x4bced04ba4c15a6dda1c185763b498a5adb162361c46cd42f78396184393cc4a",
+      "platform": "polymarket",
+      "question": "Spread: Pistons (-16.5)",
+      "keywords_searched": "spread: pistons (-16.5)",
+      "sources_checked": 13,
+      "news_count": 3,
+      "reddit_count": 10,
+      "sentiment_score": -0.0769,
+      "estimated_probability": 0.4923,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 13 sources (3 news, 10 Reddit). Composite sentiment: -0.077 (NEUTRAL). Market price: 0.50 \u2192 estimated: 0.49. Key headlines: Triple Engined! A 1963 Go-Kart 800 With 3 x McCulloch MC-10 Motors | Pistons vs Wizards Prediction, Picks & Odds for Tonight\u2019s NBA Game",
+      "top_headlines": [
+        "Triple Engined! A 1963 Go-Kart 800 With 3 x McCulloch MC-10 Motors",
+        "Pistons vs Wizards Prediction, Picks & Odds for Tonight\u2019s NBA Game",
+        "Today's top games to watch, best bets, odds: Suns vs. Celtics, Flames vs. Red Wings and more"
+      ],
+      "last_updated": "2026-03-19T15:06:47.429333"
+    },
+    {
+      "market_id": "0x532cabed36cad1b584ff8c7a2d135c38429932498f3736c52c6b27eacfb81cb2",
+      "platform": "polymarket",
+      "question": "Magic vs. Hornets",
+      "keywords_searched": "magic vs hornets",
+      "sources_checked": 14,
+      "news_count": 4,
+      "reddit_count": 10,
+      "sentiment_score": 0.0952,
+      "estimated_probability": 0.5095,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 14 sources (4 news, 10 Reddit). Composite sentiment: +0.095 (NEUTRAL). Market price: 0.50 \u2192 estimated: 0.51. Key headlines: Heat vs Hornets Prediction, Picks & Odds for Tonight\u2019s NBA Game | Rockets vs Lakers: LeBron James reveals injury fears before win over NBA \u2018great\u2019 Durant",
+      "top_headlines": [
+        "Heat vs Hornets Prediction, Picks & Odds for Tonight\u2019s NBA Game",
+        "Rockets vs Lakers: LeBron James reveals injury fears before win over NBA \u2018great\u2019 Durant",
+        "Which March Madness school has most famous alumni? Check out our celebrity bracket"
+      ],
+      "last_updated": "2026-03-19T15:06:48.815541"
+    },
+    {
+      "market_id": "0x718dba92728910da58e208a063ec5b5e7ad481d98e62fbb4a39a83905504783b",
+      "platform": "polymarket",
+      "question": "Spread: North Carolina Tar Heels (-2.5)",
+      "keywords_searched": "spread: north carolina tar heels (-2.5)",
+      "sources_checked": 4,
+      "news_count": 4,
+      "reddit_count": 0,
+      "sentiment_score": 0.0,
+      "estimated_probability": 0.5,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 4 sources (4 news, 0 Reddit). Composite sentiment: +0.000 (NEUTRAL). Market price: 0.50 \u2192 estimated: 0.50. Key headlines: 2026 March Madness odds and predictions: Breakdown of First Round in the South Region - UNC on Upset Alert | March Madness Cheat Sheet: 3 Things You Need to Know About Every Team",
+      "top_headlines": [
+        "2026 March Madness odds and predictions: Breakdown of First Round in the South Region - UNC on Upset Alert",
+        "March Madness Cheat Sheet: 3 Things You Need to Know About Every Team",
+        "College football coaching carousel: Every new Power Four coordinator hired for 2026"
+      ],
+      "last_updated": "2026-03-19T15:06:49.859611"
+    },
+    {
+      "market_id": "0x40f07fb04ff481563c88e8b8817320c73ea2b500809c85be4d6991146aff7487",
+      "platform": "polymarket",
+      "question": "Rangers vs. Blue Jackets",
+      "keywords_searched": "rangers vs blue jackets",
+      "sources_checked": 12,
+      "news_count": 2,
+      "reddit_count": 10,
+      "sentiment_score": 0.1667,
+      "estimated_probability": 0.5167,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 12 sources (2 news, 10 Reddit). Composite sentiment: +0.167 (BULLISH). Market price: 0.50 \u2192 estimated: 0.52. Key headlines: NHL Power Rankings: How each NHL team would fill out a March Madness-style bracket this year | Next on Disney+, Hulu, and ESPN - April 2026",
+      "top_headlines": [
+        "NHL Power Rankings: How each NHL team would fill out a March Madness-style bracket this year",
+        "Next on Disney+, Hulu, and ESPN - April 2026",
+        "Paddling in Tomales Bay 3/22"
+      ],
+      "last_updated": "2026-03-19T15:06:52.536613"
+    },
+    {
+      "market_id": "0x70c04e13e2fc0cd73a35b736954537f01d8854e9d57ce62312a06b5c05350518",
+      "platform": "polymarket",
+      "question": "Texas Longhorns vs. BYU Cougars",
+      "keywords_searched": "texas longhorns vs byu cougars",
+      "sources_checked": 18,
+      "news_count": 8,
+      "reddit_count": 10,
+      "sentiment_score": 0.1389,
+      "estimated_probability": 0.5139,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 18 sources (8 news, 10 Reddit). Composite sentiment: +0.139 (BULLISH). Market price: 0.50 \u2192 estimated: 0.51. Key headlines: From The Sports Desk: Venezuela shows why World Baseball Classic matters | March Madness odds, lines, predictions: Expert picks for 2026 NCAA Tournament games on Day 1 (March 19)",
+      "top_headlines": [
+        "From The Sports Desk: Venezuela shows why World Baseball Classic matters",
+        "March Madness odds, lines, predictions: Expert picks for 2026 NCAA Tournament games on Day 1 (March 19)",
+        "NCAA Tournament First Four: Expert likes UMBC, Texas to advance to Round of 64 with victories on Tuesday"
+      ],
+      "last_updated": "2026-03-19T15:06:54.055714"
+    },
+    {
+      "market_id": "0x06707a5317654a573e0ed4879d0c81071de1a94b0cd3cb007c7ec32ebe359885",
+      "platform": "polymarket",
+      "question": "Lakers vs. Heat",
+      "keywords_searched": "lakers vs heat",
+      "sources_checked": 14,
+      "news_count": 4,
+      "reddit_count": 10,
+      "sentiment_score": 0.1071,
+      "estimated_probability": 0.5107,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 14 sources (4 news, 10 Reddit). Composite sentiment: +0.107 (BULLISH). Market price: 0.50 \u2192 estimated: 0.51. Key headlines: Rockets vs Lakers: LeBron James reveals injury fears before win over NBA \u2018great\u2019 Durant | Which March Madness school has most famous alumni? Check out our celebrity bracket",
+      "top_headlines": [
+        "Rockets vs Lakers: LeBron James reveals injury fears before win over NBA \u2018great\u2019 Durant",
+        "Which March Madness school has most famous alumni? Check out our celebrity bracket",
+        "2026 NBA playoff picture: Standings, tiebreakers as Lakers and Rockets jostle in West"
+      ],
+      "last_updated": "2026-03-19T15:06:55.434532"
+    },
+    {
+      "market_id": "0x9079822f95376dae8797ecb6d5b2a0251bd24f102693cf667f3911d864c08f5a",
+      "platform": "polymarket",
+      "question": "Cavaliers vs. Bulls: O/U 238.5",
+      "keywords_searched": "cavaliers vs bulls: o/u 238.5",
+      "sources_checked": 10,
+      "news_count": 0,
+      "reddit_count": 10,
+      "sentiment_score": 0.2333,
+      "estimated_probability": 0.5233,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 10 sources (0 news, 10 Reddit). Composite sentiment: +0.233 (BULLISH). Market price: 0.50 \u2192 estimated: 0.52. Key headlines: Game Thread: Orioles @ Yankees - Thu, Mar 19 @ 01:05 PM EDT | Game Thread: Orioles @ Yankees - March 19, 2026 @ 01:05 PM EDT",
+      "top_headlines": [
+        "Game Thread: Orioles @ Yankees - Thu, Mar 19 @ 01:05 PM EDT",
+        "Game Thread: Orioles @ Yankees - March 19, 2026 @ 01:05 PM EDT",
+        "Home Depot ($HD) puts YOLO, housing is cooked"
+      ],
+      "last_updated": "2026-03-19T15:06:57.219930"
+    },
+    {
+      "market_id": "0x4adffd3f122654b4e84d1e0cb804899407f1b93fdbdffea081496d001af1c5b4",
+      "platform": "polymarket",
+      "question": "Clippers vs. Pelicans",
+      "keywords_searched": "clippers vs pelicans",
+      "sources_checked": 13,
+      "news_count": 3,
+      "reddit_count": 10,
+      "sentiment_score": 0.4615,
+      "estimated_probability": 0.5462,
+      "market_price": 0.5,
+      "confidence_level": "HIGH",
+      "narrative_summary": "Found 13 sources (3 news, 10 Reddit). Composite sentiment: +0.462 (BULLISH). Market price: 0.50 \u2192 estimated: 0.55. Key headlines: Rockets vs Lakers: LeBron James reveals injury fears before win over NBA \u2018great\u2019 Durant | The Playlist: Week 21 fantasy basketball waiver wire pickups and lineup advice",
+      "top_headlines": [
+        "Rockets vs Lakers: LeBron James reveals injury fears before win over NBA \u2018great\u2019 Durant",
+        "The Playlist: Week 21 fantasy basketball waiver wire pickups and lineup advice",
+        "Fantasy Basketball: Top Matchups, Streaming Teams & Roster Tips for 1st round of playoffs"
+      ],
+      "last_updated": "2026-03-19T15:06:58.552083"
+    },
+    {
+      "market_id": "0x94ea32a93b12477f8b8060148490969e07cf401e1bf9a4fc1c79e10d8b71c6d6",
+      "platform": "polymarket",
+      "question": "Lakers vs. Heat: O/U 239.5",
+      "keywords_searched": "lakers vs heat: o/u 239.5",
+      "sources_checked": 10,
+      "news_count": 0,
+      "reddit_count": 10,
+      "sentiment_score": 0.1,
+      "estimated_probability": 0.51,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 10 sources (0 news, 10 Reddit). Composite sentiment: +0.100 (NEUTRAL). Market price: 0.50 \u2192 estimated: 0.51. Key headlines: I 23F turned abusive. Please help me. | How do I be better for us. [F22, M23]",
+      "top_headlines": [
+        "I 23F turned abusive. Please help me.",
+        "How do I be better for us. [F22, M23]",
+        "[PPGT] Apr\u00e8s Ski | Avs vs Stars | The Goalied Edition"
+      ],
+      "last_updated": "2026-03-19T15:07:00.600921"
+    },
+    {
+      "market_id": "0x9ec1ed93fa88d106c07695d4a21dcdbcc5b70a421686fcedd653cc63bddb14e2",
+      "platform": "polymarket",
+      "question": "Bucks vs. Jazz",
+      "keywords_searched": "bucks vs jazz",
+      "sources_checked": 12,
+      "news_count": 2,
+      "reddit_count": 10,
+      "sentiment_score": 0.1667,
+      "estimated_probability": 0.5167,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 12 sources (2 news, 10 Reddit). Composite sentiment: +0.167 (BULLISH). Market price: 0.50 \u2192 estimated: 0.52. Key headlines: Rockets vs Lakers: LeBron James reveals injury fears before win over NBA \u2018great\u2019 Durant | The Playlist: Week 21 fantasy basketball waiver wire pickups and lineup advice",
+      "top_headlines": [
+        "Rockets vs Lakers: LeBron James reveals injury fears before win over NBA \u2018great\u2019 Durant",
+        "The Playlist: Week 21 fantasy basketball waiver wire pickups and lineup advice",
+        "Off-Day Discussion Thread | Mar 19, 2026"
+      ],
+      "last_updated": "2026-03-19T15:07:01.923878"
+    },
+    {
+      "market_id": "0x9af82525f62f45127301f661979e00c6de4f40566fadaa43361daa58a1a79941",
+      "platform": "polymarket",
+      "question": "Utah vs. Golden Knights",
+      "keywords_searched": "utah vs golden knights",
+      "sources_checked": 11,
+      "news_count": 1,
+      "reddit_count": 10,
+      "sentiment_score": -0.0909,
+      "estimated_probability": 0.4909,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 11 sources (1 news, 10 Reddit). Composite sentiment: -0.091 (NEUTRAL). Market price: 0.50 \u2192 estimated: 0.49. Key headlines: Golden Knights host the Mammoth in Western Conference action | KOLV LORE.",
+      "top_headlines": [
+        "Golden Knights host the Mammoth in Western Conference action",
+        "KOLV LORE.",
+        "(SELLING) Mix of HD &amp; 4K starting at $1.75. Scream, Spaceballs, X, Pearl, Ambulance, Zero Dark Thirty. The Condemned 2, The Maze Runner trilogy, The Hunger Games, Disney\u2019s Hercules, Super 8, John Wick 1-3, Interstellar, Talk to Me, Crawl, Life of Pi, The Revenant, &amp; more"
+      ],
+      "last_updated": "2026-03-19T15:07:03.619336"
+    },
+    {
+      "market_id": "0x04c109837e9c83aa410e4a1bfa32d5574b05fafd0a432514965c03a20e2511a6",
+      "platform": "polymarket",
+      "question": "Akron Zips vs. Texas Tech Red Raiders",
+      "keywords_searched": "akron zips vs texas tech red",
+      "sources_checked": 18,
+      "news_count": 8,
+      "reddit_count": 10,
+      "sentiment_score": 0.0556,
+      "estimated_probability": 0.5056,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 18 sources (8 news, 10 Reddit). Composite sentiment: +0.056 (NEUTRAL). Market price: 0.50 \u2192 estimated: 0.51. Key headlines: NCAA bracket 2026: Ranking every March Madness tournament first-round game from No. 1 to No. 32 | 2025-26 March Madness Betting Report: 'They're Laying Into the Favorites'",
+      "top_headlines": [
+        "NCAA bracket 2026: Ranking every March Madness tournament first-round game from No. 1 to No. 32",
+        "2025-26 March Madness Betting Report: 'They're Laying Into the Favorites'",
+        "2026 March Madness picks: Predictions for every first-round game in the bracket"
+      ],
+      "last_updated": "2026-03-19T15:07:05.316332"
+    },
+    {
+      "market_id": "0x4491df698adf8d361aacc240a34d12e751f51baef01d79d523a4d498baa45fba",
+      "platform": "polymarket",
+      "question": "Missouri Tigers vs. Miami Hurricanes",
+      "keywords_searched": "missouri tigers vs miami hurricanes",
+      "sources_checked": 19,
+      "news_count": 9,
+      "reddit_count": 10,
+      "sentiment_score": 0.1929,
+      "estimated_probability": 0.5193,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 19 sources (9 news, 10 Reddit). Composite sentiment: +0.193 (BULLISH). Market price: 0.50 \u2192 estimated: 0.52. Key headlines: NCAA Tournament 2026 bracket picks, top upsets, Cinderella teams: Model simulates March Madness 10,000 times | NCAA Tournament 2026 bracket picks, upsets, Cinderella teams: Model simulates March Madness 10,000 times",
+      "top_headlines": [
+        "NCAA Tournament 2026 bracket picks, top upsets, Cinderella teams: Model simulates March Madness 10,000 times",
+        "NCAA Tournament 2026 bracket picks, upsets, Cinderella teams: Model simulates March Madness 10,000 times",
+        "NCAA Tournament 2026 bracket picks, Cinderella teams, upsets: Model simulates March Madness 10,000 times"
+      ],
+      "last_updated": "2026-03-19T15:07:07.169644"
+    },
+    {
+      "market_id": "0x553fc3e6702408b07899e79cc490d34d3d01ab1cecb61ce0d27fce12232f3ac8",
+      "platform": "polymarket",
+      "question": "Hofstra Pride vs. Alabama Crimson Tide",
+      "keywords_searched": "hofstra pride vs alabama crimson tide",
+      "sources_checked": 15,
+      "news_count": 5,
+      "reddit_count": 10,
+      "sentiment_score": 0.4667,
+      "estimated_probability": 0.5467,
+      "market_price": 0.5,
+      "confidence_level": "HIGH",
+      "narrative_summary": "Found 15 sources (5 news, 10 Reddit). Composite sentiment: +0.467 (BULLISH). Market price: 0.50 \u2192 estimated: 0.55. Key headlines: NCAA Tournament predictions: College basketball expert has Midwest Region Cinderella, team to avoid and winner | What to know about Hofstra entering NCAA Tournament first round",
+      "top_headlines": [
+        "NCAA Tournament predictions: College basketball expert has Midwest Region Cinderella, team to avoid and winner",
+        "What to know about Hofstra entering NCAA Tournament first round",
+        "TV channel, start time for Alabama vs. Hofstra in NCAA Tournament"
+      ],
+      "last_updated": "2026-03-19T15:07:08.739853"
+    },
+    {
+      "market_id": "0xe786e550fff7199ee0684a50fc381d933621abdcc13ffaef3464c396b2434e9e",
+      "platform": "polymarket",
+      "question": "Will Elon Musk post 260-279 tweets from March 13 to March 20, 2026?",
+      "keywords_searched": "elon musk post 260-279 tweets from",
+      "sources_checked": 10,
+      "news_count": 0,
+      "reddit_count": 10,
+      "sentiment_score": 0.3,
+      "estimated_probability": 0.53,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 10 sources (0 news, 10 Reddit). Composite sentiment: +0.300 (BULLISH). Market price: 0.50 \u2192 estimated: 0.53. Key headlines: You cannot fake this thing lmao | Freedom House United States Report",
+      "top_headlines": [
+        "You cannot fake this thing lmao",
+        "Freedom House United States Report",
+        "well shit."
+      ],
+      "last_updated": "2026-03-19T15:07:10.145341"
+    },
+    {
+      "market_id": "0x5e727ec21989b0423e21c58986744955305f43013b5294f151f9971214b59d1b",
+      "platform": "polymarket",
+      "question": "Will Elon Musk post 380-399 tweets from March 13 to March 20, 2026?",
+      "keywords_searched": "elon musk post 380-399 tweets from",
+      "sources_checked": 10,
+      "news_count": 0,
+      "reddit_count": 10,
+      "sentiment_score": 0.3,
+      "estimated_probability": 0.53,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 10 sources (0 news, 10 Reddit). Composite sentiment: +0.300 (BULLISH). Market price: 0.50 \u2192 estimated: 0.53. Key headlines: You cannot fake this thing lmao | Freedom House United States Report",
+      "top_headlines": [
+        "You cannot fake this thing lmao",
+        "Freedom House United States Report",
+        "well shit."
+      ],
+      "last_updated": "2026-03-19T15:07:11.694760"
+    },
+    {
+      "market_id": "0x57b686c7fb5518730a47368dfa2523db169f3d2c37a4bf91400830c989f46bf8",
+      "platform": "polymarket",
+      "question": "Will Elon Musk post 360-379 tweets from March 13 to March 20, 2026?",
+      "keywords_searched": "elon musk post 360-379 tweets from",
+      "sources_checked": 10,
+      "news_count": 0,
+      "reddit_count": 10,
+      "sentiment_score": 0.3,
+      "estimated_probability": 0.53,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 10 sources (0 news, 10 Reddit). Composite sentiment: +0.300 (BULLISH). Market price: 0.50 \u2192 estimated: 0.53. Key headlines: You cannot fake this thing lmao | Freedom House United States Report",
+      "top_headlines": [
+        "You cannot fake this thing lmao",
+        "Freedom House United States Report",
+        "well shit."
+      ],
+      "last_updated": "2026-03-19T15:07:13.020801"
+    },
+    {
+      "market_id": "0x8ec2bfbcd1163c96788a084121baf55f6b15f4d4602765f79a82bfadae899aae",
+      "platform": "polymarket",
+      "question": "Will Elon Musk post 280-299 tweets from March 13 to March 20, 2026?",
+      "keywords_searched": "elon musk post 280-299 tweets from",
+      "sources_checked": 10,
+      "news_count": 0,
+      "reddit_count": 10,
+      "sentiment_score": 0.3,
+      "estimated_probability": 0.53,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 10 sources (0 news, 10 Reddit). Composite sentiment: +0.300 (BULLISH). Market price: 0.50 \u2192 estimated: 0.53. Key headlines: You cannot fake this thing lmao | Freedom House United States Report",
+      "top_headlines": [
+        "You cannot fake this thing lmao",
+        "Freedom House United States Report",
+        "well shit."
+      ],
+      "last_updated": "2026-03-19T15:07:14.505663"
+    },
+    {
+      "market_id": "0x3c0adcf4ad08bc8c562d4cb50e0b177ff93a351a0a5905f77afe8b29471bdf26",
+      "platform": "polymarket",
+      "question": "Will Elon Musk post 400-419 tweets from March 13 to March 20, 2026?",
+      "keywords_searched": "elon musk post 400-419 tweets from",
+      "sources_checked": 10,
+      "news_count": 0,
+      "reddit_count": 10,
+      "sentiment_score": 0.2,
+      "estimated_probability": 0.52,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 10 sources (0 news, 10 Reddit). Composite sentiment: +0.200 (BULLISH). Market price: 0.50 \u2192 estimated: 0.52. Key headlines: You cannot fake this thing lmao | Freedom House United States Report",
+      "top_headlines": [
+        "You cannot fake this thing lmao",
+        "Freedom House United States Report",
+        "well shit."
+      ],
+      "last_updated": "2026-03-19T15:07:16.088329"
+    },
+    {
+      "market_id": "0xc6298d48108c9b997215dd5eff1d90b9f6301047d46c6a914ed9ac73b544bcdd",
+      "platform": "polymarket",
+      "question": "Will Elon Musk post 300-319 tweets from March 13 to March 20, 2026?",
+      "keywords_searched": "elon musk post 300-319 tweets from",
+      "sources_checked": 10,
+      "news_count": 0,
+      "reddit_count": 10,
+      "sentiment_score": 0.3,
+      "estimated_probability": 0.53,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 10 sources (0 news, 10 Reddit). Composite sentiment: +0.300 (BULLISH). Market price: 0.50 \u2192 estimated: 0.53. Key headlines: You cannot fake this thing lmao | Freedom House United States Report",
+      "top_headlines": [
+        "You cannot fake this thing lmao",
+        "Freedom House United States Report",
+        "well shit."
+      ],
+      "last_updated": "2026-03-19T15:07:17.434380"
+    },
+    {
+      "market_id": "0x7499f6b996e49bc779f736cee57742757e3466d7cdacda8963558448800c25a7",
+      "platform": "polymarket",
+      "question": "Will Elon Musk post 440-459 tweets from March 13 to March 20, 2026?",
+      "keywords_searched": "elon musk post 440-459 tweets from",
+      "sources_checked": 10,
+      "news_count": 0,
+      "reddit_count": 10,
+      "sentiment_score": 0.3,
+      "estimated_probability": 0.53,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 10 sources (0 news, 10 Reddit). Composite sentiment: +0.300 (BULLISH). Market price: 0.50 \u2192 estimated: 0.53. Key headlines: You cannot fake this thing lmao | Freedom House United States Report",
+      "top_headlines": [
+        "You cannot fake this thing lmao",
+        "Freedom House United States Report",
+        "well shit."
+      ],
+      "last_updated": "2026-03-19T15:07:19.225643"
+    },
+    {
+      "market_id": "0xacb2e2ac81a2c312af816cafcbc4642f350eddd27004f83d142e44fec00f88c1",
+      "platform": "polymarket",
+      "question": "Will Elon Musk post 340-359 tweets from March 13 to March 20, 2026?",
+      "keywords_searched": "elon musk post 340-359 tweets from",
+      "sources_checked": 10,
+      "news_count": 0,
+      "reddit_count": 10,
+      "sentiment_score": 0.3,
+      "estimated_probability": 0.53,
+      "market_price": 0.5,
+      "confidence_level": "MEDIUM",
+      "narrative_summary": "Found 10 sources (0 news, 10 Reddit). Composite sentiment: +0.300 (BULLISH). Market price: 0.50 \u2192 estimated: 0.53. Key headlines: You cannot fake this thing lmao | Freedom House United States Report",
+      "top_headlines": [
+        "You cannot fake this thing lmao",
+        "Freedom House United States Report",
+        "well shit."
+      ],
+      "last_updated": "2026-03-19T15:07:20.797806"
+    }
+  ]
+}

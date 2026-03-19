@@ -1,0 +1,23 @@
+{
+  "approved": true,
+  "rejection_reasons": [],
+  "passed_checks": [
+    "OK",
+    "Edge 0.1375 \u2265 0.04 \u2713",
+    "Position size 5.0% \u2264 5.0% \u2713",
+    "24/25 positions open \u2713",
+    "Daily P&L: $+0.00 within limits \u2713",
+    "Drawdown check skipped (no data)",
+    "API spend $0.00 / $50.00 \u2713",
+    "Liquidity adequate \u2713"
+  ],
+  "position_dollars": 5.0,
+  "contracts": 10,
+  "kelly_full": 0.275,
+  "kelly_quarter": 0.0687,
+  "max_profit": 5.0,
+  "max_loss": 5.0,
+  "expected_value": 1.37,
+  "bankroll_snapshot": 100.0,
+  "validated_at": "2026-03-19T15:09:50.626650"
+}
