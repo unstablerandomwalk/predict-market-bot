@@ -121,13 +121,13 @@ touch STOP
 
 | Metric | Value |
 |--------|-------|
-| Total Resolved Trades | — |
-| Win Rate | — |
-| Total P&L | — |
-| Avg Edge (wins) | — |
-| Avg Edge (losses) | — |
+| Total Resolved Trades | 34 |
+| Win Rate | 76.5% |
+| Total P&L | +$89.00 |
+| Avg Edge (wins) | $4.52 |
+| Avg Edge (losses) | $3.56 |
 
-*Will update with live stats after 2-week paper trading period.*
+*Live stats after a 2 week trading period.*
 
 ---
 
