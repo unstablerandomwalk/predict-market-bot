@@ -1,4 +1,4 @@
-# 🤖 predict-market-bot
+# Market Prediction and Trading Bot
 
 An autonomous AI trading bot for [Polymarket](https://polymarket.com) prediction markets. Uses a 3-model AI ensemble (Claude, GPT-4o, Gemini) to identify mispricings, size positions using Kelly Criterion, and execute trades automatically.
 
